@@ -1,4 +1,4 @@
-<h2>##團隊成員<h2>
+<h2>##團隊成員</h2>
 
--Neo
--hsuhsusophie
+<li>-Neo</li>
+<li>-hsuhsusophie</li>
